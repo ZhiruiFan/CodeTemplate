@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/petsc/petsc-3.15.0/debug/include",
+                "/usr/include/petsc/petsc-3.15.0/debug/arch-linux2-c-debug/include",
+                "/usr/include/petsc/petsc-3.15.0/debug/include/petsc/mpiuni"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
